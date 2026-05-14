@@ -1,0 +1,8 @@
+name:sir_test
+health:72
+max_health:90
+gold:310
+role:Fighter
+level:4
+xp:60
+potions:6

@@ -1,0 +1,37 @@
+============================================================================
+LICENSE: Creative Commons Attribution 4.0 International (CC BY 4.0)
+============================================================================
+Copyright (c) 2013-2026 Michael Dixon
+Product: Dungeon Crawler Learning Suite I
+GitHub: [https://github.com/Mike-Dixon-0001/dungeon-crawler-learning-suite1]
+
+You are free to:
+- Share and Adapt the material for any purpose, even commercially.
+
+Under the following terms:
+- Attribution: You must give appropriate credit by displaying the 
+  Copyright notice within, the Product Name, and providing a link 
+  to the original GitHub repository.
+
+============================================================================
+REQUIRED ATTRIBUTION EXAMPLES
+============================================================================
+
+1. ON A SPLASH SCREEN OR ABOUT PAGE:
+   "Powered by the Dungeon Crawler Learning Suite I
+    Copyright (c) 2013-2026 Michael Dixon 
+    [https://github.com/Mike-Dixon-0001/dungeon-crawler-learning-suite1]"
+
+2. IN DOCUMENTATION OR README FILES:
+   "This project utilizes logic from the Dungeon Crawler 
+    Learning Suite I, created by Michael Dixon (2013-2026).
+    
+    (Original Source) 
+    [https://github.com/Mike-Dixon-0001/dungeon-crawler-learning-suite1]"
+
+3. IN A CREDIT ROLL / LIST:
+   "Powered by the Dungeon Crawler Learning Suite I
+    Copyright (c) 2013-2026 Michael Dixon 
+    [https://github.com/Mike-Dixon-0001/dungeon-crawler-learning-suite1]"
+
+============================================================================

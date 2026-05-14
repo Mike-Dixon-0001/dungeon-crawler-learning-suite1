@@ -1,0 +1,8 @@
+name:bob
+health:308
+max_health:373
+gold:23190
+role:Elf
+level:38
+xp:270
+potions:47
